@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of جديد Medical OS pro الان",
+  "description": "The advanced Medical Operating System for 21 September University. Powered by Gemini 3 Pro & Flash.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
